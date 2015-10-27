@@ -1,0 +1,47 @@
+body {
+  width: 100%;
+  padding: 0;
+  margin: 0;
+  color: #666;
+  font-family: proxima-nova;
+  background: #ccc; }
+
+header {
+  background: #f6f6f6; }
+
+.main {
+  width: 50%;
+  margin: 0 auto;
+  text-align: center;
+  padding: 30px; }
+
+h2 {
+  font-family: "museo-sans";
+  font-size: 45px;
+  font-weight: 100; }
+
+hr {
+  width: 250px;
+  border: 2px solid #e12b2e; }
+
+.text {
+  font-size: 20px;
+  letter-spacing: 1px;
+  line-height: 32px; }
+
+button {
+  color: #fff;
+  background: #e12b2e;
+  border: 1px solid #e12b2e;
+  border-radius: 2px;
+  padding: 10px 20px;
+  letter-spacing: 1px; }
+
+@font-face {
+  font-family: "museo-sans";
+  src: url("fonts/MuseoSansCyrl.otf"); }
+@font-face {
+  font-family: "proxima-nova";
+  src: url("fonts/proximaNova-regular.otf"); }
+
+/*# sourceMappingURL=style.css.map */
