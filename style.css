@@ -36,7 +36,9 @@ button {
   border-radius: 2px;
   padding: 10px 20px;
   letter-spacing: 1px; }
-
+  button:hover{
+  background:#fff;
+  color: #e12b2e;}
 @font-face {
   font-family: "museo-sans";
   src: url("fonts/MuseoSansCyrl.otf"); }
